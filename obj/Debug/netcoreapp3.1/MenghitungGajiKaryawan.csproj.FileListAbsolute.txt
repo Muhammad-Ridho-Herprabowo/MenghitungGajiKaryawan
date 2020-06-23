@@ -1,0 +1,13 @@
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\bin\Debug\netcoreapp3.1\MenghitungGajiKaryawan.exe
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\bin\Debug\netcoreapp3.1\MenghitungGajiKaryawan.deps.json
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\bin\Debug\netcoreapp3.1\MenghitungGajiKaryawan.runtimeconfig.json
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\bin\Debug\netcoreapp3.1\MenghitungGajiKaryawan.runtimeconfig.dev.json
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\bin\Debug\netcoreapp3.1\MenghitungGajiKaryawan.dll
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\bin\Debug\netcoreapp3.1\MenghitungGajiKaryawan.pdb
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\obj\Debug\netcoreapp3.1\MenghitungGajiKaryawan.csprojAssemblyReference.cache
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\obj\Debug\netcoreapp3.1\MenghitungGajiKaryawan.csproj.CoreCompileInputs.cache
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\obj\Debug\netcoreapp3.1\MenghitungGajiKaryawan.AssemblyInfoInputs.cache
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\obj\Debug\netcoreapp3.1\MenghitungGajiKaryawan.AssemblyInfo.cs
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\obj\Debug\netcoreapp3.1\MenghitungGajiKaryawan.dll
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\obj\Debug\netcoreapp3.1\MenghitungGajiKaryawan.pdb
+D:\Pemrograman\MenghitungGajiKaryawan\MenghitungGajiKaryawan\obj\Debug\netcoreapp3.1\MenghitungGajiKaryawan.genruntimeconfig.cache
